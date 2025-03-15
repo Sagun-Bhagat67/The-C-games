@@ -82,7 +82,7 @@ This project is a collection of classic games implemented in C. The games are de
    
 
 3. **Run the Program**:  
-   Execute the compiled program:
+   Execute the compiled program (main.c)
   
 
 4. **Follow On-Screen Instructions**:  
